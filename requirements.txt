@@ -5,3 +5,4 @@ numpy==1.26.4
 einops
 optuna
 scipy
+ncps
